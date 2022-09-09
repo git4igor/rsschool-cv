@@ -30,3 +30,29 @@ In my free time, I like to go out, meet new people and play the bass guitar.
 - VS Code
 
 *******************
+
+### Code example:
+
+While studying Javascript, I wrote a joke console game.
+
+```javascript
+function russainRoulette(slot) {
+    let num = Math.round(Math.random() * 5 + 1);
+    if (slot < 1 || slot > 6 || typeof(slot) != "number") {
+        console.log('Заряди барабан, слоты от 1 до 6');
+    } else if (num === slot) {
+        console.log('Ты убил сам себя!');
+    } else {
+        console.log('Ты еще жив, пробуй еще раз!');
+    }
+}
+```
+
+*******************
+
+### Languages:
+
+- English - Pre-Intermediate
+- Russian \- Native
+
+*******************
