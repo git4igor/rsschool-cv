@@ -13,3 +13,20 @@
 [LinkedIn](https://www.linkedin.com/in/igor-lesik-a685a019b/)<br>
 
 *******************
+
+### About Myself:
+I have been working in IT for more than 9 years, mainly in the position of technical support for employees.
+When I worked at Paragon-Software, I decided to change my specialty to a Frontend developer. I am currently actively learning JavaScript.
+
+In my free time, I like to go out, meet new people and play the bass guitar.
+
+*******************
+
+### Skills and Proficiency:
+
+- HTML5, CSS3
+- JavaScript Basics
+- Git, GitHub
+- VS Code
+
+*******************
