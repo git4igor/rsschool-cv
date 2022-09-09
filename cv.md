@@ -5,3 +5,11 @@
 ### Junior Frontend Developer
 
 *******************
+
+## Contacts
+
+**Phone:** +374 91 53 26 94<br>
+**Email:** i.lesik@outlook.com<br>
+[LinkedIn](https://www.linkedin.com/in/igor-lesik-a685a019b/)<br>
+
+*******************
